@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="engine/jquery.js"></script>
+    <script src="engine/functions.js"></script>
+    <title>Автопарк</title>
+</head>
+<body>
+<h1>Тут вносят данные в автопарк</h1>
+<div id="msg"></div>
+
+<form  onsubmit="setTrucs();return false">
+<div id="users"></div><br><br><br>
+
+
+    <input type="text" placeholder="Укажите марку авто" class="reset" id="make" required><br>
+    <input type="text" placeholder="Укажите модель авто" class="reset" id="model" required><br>
+    <input type="text" placeholder="Укажите госномер авто" class="reset" id="carnum" pattern="^[A-Za-z0-9А-Яа-я]+$" required><br>
+    <input type="text" placeholder="Укажите госномер прицепа" class="reset" id="trailernum" pattern="^[A-Za-z0-9А-Яа-я]+$" required><br>
+    <input type="text" placeholder="Укажите владельца" class="reset" id="owner" required><br>
+    <input type="text" placeholder="Укажите водителя" class="reset" id="driver" required><br>
+    <div id="t_t"></div>
+    <div id="t_c"></div>
+    <div id="spec"></div>
+    <br><br>
+    <button>Отправить</button></form>
+<br><br>
+<hr>
+<h1>Тут смотрим данные из автопарка</h1>
+<div id="users_truck"></div>
+<div id="user_trucks"></div>
+</body>
+</html>
