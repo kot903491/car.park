@@ -150,6 +150,7 @@ where user_cars.id_user=$id;");
                 $result.="<td>".$row['car_num']."</td><td>".$row['trailer_num']."</td><td>".$row['driwer']."</td>";
                 $result.="<td>".$row['owner']."</td></tr>";
             }
+            $mysqli->close();
             $result.="</table>";
         }
         else{
