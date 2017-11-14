@@ -39,7 +39,6 @@ function setTrucs() {
     }
 }
 
-
 function getSpecification() {
     var id=$('#c_type').val();
     $.ajax({
@@ -64,7 +63,6 @@ function getTypeCarcas() {
         }
     });
 }
-
 
 function getTypeTransport() {
   $.ajax({
