@@ -56,8 +56,8 @@
       <file leaf-file-name="server.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/engine/server.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="152" column="29" lean-forward="false" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
+            <state relative-caret-position="203">
+              <caret line="149" column="102" lean-forward="false" selection-start-line="149" selection-start-column="102" selection-end-line="149" selection-end-column="102" />
               <folding>
                 <element signature="e#127#742#0#PHP" expanded="false" />
                 <element signature="e#158#230#0#PHP" expanded="false" />
@@ -71,23 +71,23 @@
                 <element signature="n#getUsers#0;n#!!top" expanded="false" />
                 <element signature="n#setTrucs#0;n#!!top" expanded="false" />
                 <element signature="n#getUsersTrucks#0;n#!!top" expanded="false" />
-                <marker date="1510676439926" expanded="true" signature="877:905" ph="SELECT * FRO... transport_type" />
-                <marker date="1510676439926" expanded="true" signature="1409:1556" ph="select truck... truck_type" />
-                <marker date="1510676439926" expanded="true" signature="2701:2720" ph="SELECT * FRO... users" />
-                <marker date="1510676439926" expanded="true" signature="3805:4016" ph="INSERT INTO truck... " />
-                <marker date="1510676439926" expanded="true" signature="3895:3958" ph="select id_tr... truck_type" />
-                <marker date="1510676439926" expanded="true" signature="4130:4199" ph="INSERT INTO specific_prim... " />
-                <marker date="1510676439926" expanded="true" signature="4130:4200" ph="INSERT INTO specific_prim... " />
-                <marker date="1510676439926" expanded="true" signature="4130:4201" ph="INSERT INTO specific_prim... " />
-                <marker date="1510676439926" expanded="true" signature="4130:4204" ph="INSERT INTO specific_prim... " />
-                <marker date="1510676439926" expanded="true" signature="4427:4497" ph="INSERT INTO specific_second... " />
-                <marker date="1510676439926" expanded="true" signature="4427:4501" ph="INSERT INTO specific_second... " />
-                <marker date="1510676439926" expanded="true" signature="4531:4543" ph="INSERT INTO specific_prim... " />
-                <marker date="1510676439926" expanded="true" signature="4531:4592" ph="INSERT INTO user_cars... " />
-                <marker date="1510676439926" expanded="true" signature="4795:4814" ph="SELECT * FRO... users" />
-                <marker date="1510676439926" expanded="true" signature="5275:5367" ph="select truck... user_cars" />
-                <marker date="1510676439926" expanded="true" signature="5275:5990" ph="select truck... user_cars" />
-                <marker date="1510676439926" expanded="true" signature="5275:5991" ph="select truck... user_cars" />
+                <marker date="1510691599726" expanded="true" signature="877:905" ph="SELECT * FRO... transport_type" />
+                <marker date="1510691599726" expanded="true" signature="1409:1556" ph="select truck... truck_type" />
+                <marker date="1510691599726" expanded="true" signature="2701:2720" ph="SELECT * FRO... users" />
+                <marker date="1510691599726" expanded="true" signature="3805:4016" ph="INSERT INTO truck... " />
+                <marker date="1510691599726" expanded="true" signature="3895:3958" ph="select id_tr... truck_type" />
+                <marker date="1510691599726" expanded="true" signature="4130:4199" ph="INSERT INTO specific_prim... " />
+                <marker date="1510691599726" expanded="true" signature="4130:4200" ph="INSERT INTO specific_prim... " />
+                <marker date="1510691599726" expanded="true" signature="4130:4201" ph="INSERT INTO specific_prim... " />
+                <marker date="1510691599726" expanded="true" signature="4130:4204" ph="INSERT INTO specific_prim... " />
+                <marker date="1510691599726" expanded="true" signature="4427:4497" ph="INSERT INTO specific_second... " />
+                <marker date="1510691599726" expanded="true" signature="4427:4501" ph="INSERT INTO specific_second... " />
+                <marker date="1510691599726" expanded="true" signature="4531:4543" ph="INSERT INTO specific_prim... " />
+                <marker date="1510691599726" expanded="true" signature="4531:4592" ph="INSERT INTO user_cars... " />
+                <marker date="1510691599726" expanded="true" signature="4795:4814" ph="SELECT * FRO... users" />
+                <marker date="1510691599726" expanded="true" signature="5275:5367" ph="select truck... user_cars" />
+                <marker date="1510691599726" expanded="true" signature="5275:5990" ph="select truck... user_cars" />
+                <marker date="1510691599726" expanded="true" signature="5275:5991" ph="select truck... user_cars" />
               </folding>
             </state>
           </provider>
@@ -235,7 +235,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510466490865</updated>
-      <workItem from="1510466492065" duration="34314000" />
+      <workItem from="1510466492065" duration="35739000" />
     </task>
     <task id="LOCAL-00001" summary="готово">
       <created>1510670330202</created>
@@ -258,11 +258,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510670754208</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="готово">
+      <created>1510676448175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510676448175</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34314000" />
+    <option name="totallyTimeSpent" value="35739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -321,14 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engine/functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -354,10 +353,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/engine/server.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="152" column="29" lean-forward="false" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
+        <state relative-caret-position="203">
+          <caret line="149" column="102" lean-forward="false" selection-start-line="149" selection-start-column="102" selection-end-line="149" selection-end-column="102" />
           <folding>
             <element signature="e#127#742#0#PHP" expanded="false" />
             <element signature="e#158#230#0#PHP" expanded="false" />
@@ -371,23 +378,23 @@
             <element signature="n#getUsers#0;n#!!top" expanded="false" />
             <element signature="n#setTrucs#0;n#!!top" expanded="false" />
             <element signature="n#getUsersTrucks#0;n#!!top" expanded="false" />
-            <marker date="1510676439926" expanded="true" signature="877:905" ph="SELECT * FRO... transport_type" />
-            <marker date="1510676439926" expanded="true" signature="1409:1556" ph="select truck... truck_type" />
-            <marker date="1510676439926" expanded="true" signature="2701:2720" ph="SELECT * FRO... users" />
-            <marker date="1510676439926" expanded="true" signature="3805:4016" ph="INSERT INTO truck... " />
-            <marker date="1510676439926" expanded="true" signature="3895:3958" ph="select id_tr... truck_type" />
-            <marker date="1510676439926" expanded="true" signature="4130:4199" ph="INSERT INTO specific_prim... " />
-            <marker date="1510676439926" expanded="true" signature="4130:4200" ph="INSERT INTO specific_prim... " />
-            <marker date="1510676439926" expanded="true" signature="4130:4201" ph="INSERT INTO specific_prim... " />
-            <marker date="1510676439926" expanded="true" signature="4130:4204" ph="INSERT INTO specific_prim... " />
-            <marker date="1510676439926" expanded="true" signature="4427:4497" ph="INSERT INTO specific_second... " />
-            <marker date="1510676439926" expanded="true" signature="4427:4501" ph="INSERT INTO specific_second... " />
-            <marker date="1510676439926" expanded="true" signature="4531:4543" ph="INSERT INTO specific_prim... " />
-            <marker date="1510676439926" expanded="true" signature="4531:4592" ph="INSERT INTO user_cars... " />
-            <marker date="1510676439926" expanded="true" signature="4795:4814" ph="SELECT * FRO... users" />
-            <marker date="1510676439926" expanded="true" signature="5275:5367" ph="select truck... user_cars" />
-            <marker date="1510676439926" expanded="true" signature="5275:5990" ph="select truck... user_cars" />
-            <marker date="1510676439926" expanded="true" signature="5275:5991" ph="select truck... user_cars" />
+            <marker date="1510691599726" expanded="true" signature="877:905" ph="SELECT * FRO... transport_type" />
+            <marker date="1510691599726" expanded="true" signature="1409:1556" ph="select truck... truck_type" />
+            <marker date="1510691599726" expanded="true" signature="2701:2720" ph="SELECT * FRO... users" />
+            <marker date="1510691599726" expanded="true" signature="3805:4016" ph="INSERT INTO truck... " />
+            <marker date="1510691599726" expanded="true" signature="3895:3958" ph="select id_tr... truck_type" />
+            <marker date="1510691599726" expanded="true" signature="4130:4199" ph="INSERT INTO specific_prim... " />
+            <marker date="1510691599726" expanded="true" signature="4130:4200" ph="INSERT INTO specific_prim... " />
+            <marker date="1510691599726" expanded="true" signature="4130:4201" ph="INSERT INTO specific_prim... " />
+            <marker date="1510691599726" expanded="true" signature="4130:4204" ph="INSERT INTO specific_prim... " />
+            <marker date="1510691599726" expanded="true" signature="4427:4497" ph="INSERT INTO specific_second... " />
+            <marker date="1510691599726" expanded="true" signature="4427:4501" ph="INSERT INTO specific_second... " />
+            <marker date="1510691599726" expanded="true" signature="4531:4543" ph="INSERT INTO specific_prim... " />
+            <marker date="1510691599726" expanded="true" signature="4531:4592" ph="INSERT INTO user_cars... " />
+            <marker date="1510691599726" expanded="true" signature="4795:4814" ph="SELECT * FRO... users" />
+            <marker date="1510691599726" expanded="true" signature="5275:5367" ph="select truck... user_cars" />
+            <marker date="1510691599726" expanded="true" signature="5275:5990" ph="select truck... user_cars" />
+            <marker date="1510691599726" expanded="true" signature="5275:5991" ph="select truck... user_cars" />
           </folding>
         </state>
       </provider>

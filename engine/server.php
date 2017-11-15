@@ -147,7 +147,7 @@ where user_cars.id_user=$id;");
             while ($row = $res->fetch_assoc()) {
                 $result.="<tr><td>".$row['make']."</td><td>".$row['model']."</td><td>".$row['transport']."</td><td>".$row['carcas']."</td>";
                 $result.="<td>".$row['len1']."</td><td>".$row['cap1']."</td><td>".$row['len2']."</td><td>".$row['cap2']."</td>";
-                $result.="<td>".$row['car_num']."</td><td>".$row['trailer_num']."</td><td>".$row['driwer']."</td>";
+                $result.="<td>".$row['car_num']."</td><td>".$row['trailer_num']."</td><td>".$row['driver']."</td>";
                 $result.="<td>".$row['owner']."</td></tr>";
             }
             $mysqli->close();
